@@ -1,2 +1,2 @@
 # SHOPVERSE
-amazon like replica 
+amazon like replica  built wit help of ai 
