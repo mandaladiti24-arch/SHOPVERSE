@@ -1,0 +1,2 @@
+# SHOPVERSE
+amazon like replica 
